@@ -1,0 +1,10 @@
+{
+    "best_model_name": "XGBoost",
+    "best_params": {
+        "model__learning_rate": 0.05,
+        "model__max_depth": 7,
+        "model__n_estimators": 500,
+        "model__subsample": 0.8
+    },
+    "best_CV_MAE": 159688.31954237423
+}

@@ -1,0 +1,33 @@
+# Python virtual environment
+venv/
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data files (do not push large datasets)
+data/
+
+# Model files (optional, if you want to track them, remove this line)
+# models/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# Others
+*.sqlite
+*.db
+*.tmp
